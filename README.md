@@ -17,7 +17,7 @@ dependencies {
 
 ## Author
 
-hogen, hogen@kkmcn.com
+hogen
 
 ## License
 
